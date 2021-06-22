@@ -1,0 +1,2 @@
+# chandanAI
+knowledgeable.hand
